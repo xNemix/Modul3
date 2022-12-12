@@ -1,0 +1,15 @@
+C:\Users\oscar\source\repos\Moodle\Moodle\bin\Debug\net6.0\Moodle.exe
+C:\Users\oscar\source\repos\Moodle\Moodle\bin\Debug\net6.0\Moodle.deps.json
+C:\Users\oscar\source\repos\Moodle\Moodle\bin\Debug\net6.0\Moodle.runtimeconfig.json
+C:\Users\oscar\source\repos\Moodle\Moodle\bin\Debug\net6.0\Moodle.dll
+C:\Users\oscar\source\repos\Moodle\Moodle\bin\Debug\net6.0\Moodle.pdb
+C:\Users\oscar\source\repos\Moodle\Moodle\obj\Debug\net6.0\Moodle.csproj.AssemblyReference.cache
+C:\Users\oscar\source\repos\Moodle\Moodle\obj\Debug\net6.0\Moodle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oscar\source\repos\Moodle\Moodle\obj\Debug\net6.0\Moodle.AssemblyInfoInputs.cache
+C:\Users\oscar\source\repos\Moodle\Moodle\obj\Debug\net6.0\Moodle.AssemblyInfo.cs
+C:\Users\oscar\source\repos\Moodle\Moodle\obj\Debug\net6.0\Moodle.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\Moodle\Moodle\obj\Debug\net6.0\Moodle.dll
+C:\Users\oscar\source\repos\Moodle\Moodle\obj\Debug\net6.0\refint\Moodle.dll
+C:\Users\oscar\source\repos\Moodle\Moodle\obj\Debug\net6.0\Moodle.pdb
+C:\Users\oscar\source\repos\Moodle\Moodle\obj\Debug\net6.0\Moodle.genruntimeconfig.cache
+C:\Users\oscar\source\repos\Moodle\Moodle\obj\Debug\net6.0\ref\Moodle.dll
